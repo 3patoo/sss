@@ -1,1 +1,0 @@
-npm start > logs/output.log 2>&1
